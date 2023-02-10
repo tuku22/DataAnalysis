@@ -1,6 +1,8 @@
-# Data Analysis Project
+# Data Analyysi Projektit
 
-Tämä on data-analyysiprojekti, joka on tarkoitettu tutkimaan ja ymmärtämään [projektin aihetta].
+Tänne kerään data-anaalysi projektejani. Projektit ovat joko kurssilla suoritettuja projekteja
+tai omia harrastusprojektejani. Projektien tarkoitus on kerätä dataa, tutkia ja ymmärtää sitä.
+
 
 ## Tavoitteet
 
