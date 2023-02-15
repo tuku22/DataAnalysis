@@ -10,3 +10,7 @@ tai omia harrastusprojektejani. Projektien tarkoitus on kerätä dataa, tutkia j
 - Tutkia ja visualisoida tietoja
 - Päätellä tietojen perusteella merkittäviä johtopäätöksiä
 - Jakaa tulokset ja johtopäätökset ymmärrettävästi
+
+## Teknologiat
+
+- Projekteissa on käytetty pääosin Pythonia (Jupyter Notebook), sekä SQL
