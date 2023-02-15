@@ -13,4 +13,5 @@ tai omia harrastusprojektejani. Projektien tarkoitus on kerätä dataa, tutkia j
 
 ## Teknologiat
 
-- Projekteissa on käytetty pääosin Pythonia (Jupyter Notebook), sekä SQL
+- Projekteissa on käytetty pääosin Pythonia (Jupyter Notebook)
+- Covid projektissa data on ensin käsitelty Excelillä, jonka jälkeen sitä on analysoity SQL:ssä ja visualisoitu Tableaussa
